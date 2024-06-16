@@ -48,7 +48,7 @@ class DataBase:
     def DeleteDataBase(db, value):
         """Удаление записи из таблицы todo по Task и Count."""
         c = db.cursor()
-        c.execute("DELETE FROM todo WHERE Task = ? AND Count = ?", value)
+        c.execute("DELETE FROM todo WHERE Task = ?", value)
         db.commit()
 
 
@@ -172,6 +172,9 @@ def main(page: ft.Page):
         page.update()
 
     def DeleteFunc(e):
+        db = DataBase.ConnectToDatabase()
+        DataBase.DeleteDataBase(db, (e.controls[0].content.controls[0].controls[0].value,))
+        db.close()
         _main_column_.controls.remove(e)
         _main_column_.update()
 
@@ -201,6 +204,9 @@ def main(page: ft.Page):
             windll.user32.BlockInput(False)
             break
 
+        db = DataBase.ConnectToDatabase()
+        DataBase.DeleteDataBase(db, (e.controls[0].content.controls[0].controls[0].value,))
+        db.close()
         dlg.open = False
         _main_column_.controls.remove(e)
         _main_column_.update()
@@ -244,7 +250,7 @@ def main(page: ft.Page):
                                           bgcolor="#ff3636")
 
     dlg = ft.AlertDialog(
-        title=ft.Text("Вы начали выполнение задачи \n В течении 5 минут доступ к пк ограничен")
+        title=ft.Text("Вы начали выполнение задачи \nВ течении 5 минут доступ к пк ограничен")
     )
 
     dlg_to_do = ft.AlertDialog(
@@ -334,8 +340,17 @@ def main(page: ft.Page):
     page.update()
 
     db = DataBase.ConnectToDatabase()
-    for task in DataBase.ReadDataBase(db):
-        print(task)
+    for task in DataBase.ReadDataBase(db)[::-1]:
+        _main_column_.controls.append(
+            CreateTask(
+                task[0],
+                task[1],
+                DeleteFunc,
+                EditFunc,
+                StartFunc,
+            )
+        )
+    _main_column_.update()
 
 
 """ЗАПУСК СКРИПТА ОТ АДМИНА"""
