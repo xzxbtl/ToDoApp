@@ -1,12 +1,37 @@
 import sys
+import os
+import threading
 import time
 import flet as ft
 import sqlite3
+import platform
+import win10toast as win10toast
 from ctypes import *
 from flet_core import Column, \
     MainAxisAlignment, Row, Text, IconButton, icons, Divider, UserControl, Container, ClipBehavior, border
+from shlex import quote as shlex_quote
+
+current_dir = os.path.dirname(__file__)
 
 font_path = r"windowslocker/assets/fonts/OpenSans-SemiBold.ttf"
+
+
+def push(title, message):
+    plt = platform.system()
+    if plt == "Darwin":
+        command = '''
+        osascript -e 'display notification "{message}" with title "{title}"'
+        '''
+    elif plt == "Linux":
+        command = f'''
+        notify-send "{title}" "{message}"
+        '''
+    elif plt == "Windows":
+        win10toast.ToastNotifier().show_toast(title, message)
+        return
+    else:
+        return
+    os.system(shlex_quote(command))
 
 
 class DataBase:
@@ -200,7 +225,7 @@ def main(page: ft.Page):
 
         while True:
             windll.user32.BlockInput(True)
-            time.sleep(10)
+            time.sleep(300)
             windll.user32.BlockInput(False)
             break
 
@@ -211,6 +236,17 @@ def main(page: ft.Page):
         _main_column_.controls.remove(e)
         _main_column_.update()
         page.update()
+
+    def open_modal_event():
+        page.dialog = dlg_event
+        dlg_event.open = True
+        page.update()
+
+    def run_periodic_task():
+        while True:
+            time.sleep(3600)
+            open_modal_event()
+            push("To-DO", "Выполните одну задачу")
 
     task_input = ft.TextField(label="Название задачи")
     task_input_edit = ft.TextField(label="Название задачи")
@@ -251,6 +287,9 @@ def main(page: ft.Page):
 
     dlg = ft.AlertDialog(
         title=ft.Text("Вы начали выполнение задачи \nВ течении 5 минут доступ к пк ограничен")
+    )
+    dlg_event = ft.AlertDialog(
+        title=ft.Text("Прошел час! \nНачните выполнение любой задачи")
     )
 
     dlg_to_do = ft.AlertDialog(
@@ -351,6 +390,7 @@ def main(page: ft.Page):
             )
         )
     _main_column_.update()
+    threading.Thread(target=run_periodic_task, daemon=True).start()
 
 
 """ЗАПУСК СКРИПТА ОТ АДМИНА"""
