@@ -1,5 +1,5 @@
 # TO - DO 
-
+![GIF)](https://media1.tenor.com/m/kyYaip_ibBoAAAAC/anime-silly.gif)
 ## HOW TO INSTALL
 __download in app -> dist -> main.exe click__ | __скачать корректный exe__ 
 ![download exe](https://downloader.disk.yandex.ru/preview/3373a05ba21889bc149f3d0167b76eae4714e80cbeaf72fac6a40c0e85c33786/666f7a17/K5Qy111g3v0KUU5KbUEP9CPWt_XI7FYqic7ojd1zDA6QDkPswdhM9BJ3GbxTJ140032Im-OF34yrG42XLWekgA%3D%3D?uid=0&filename=Bg-t5MBpOuM.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
@@ -7,6 +7,10 @@ __download all in zip__ | __скачать целое приложение в zi
 ![download zip](https://downloader.disk.yandex.ru/preview/5edae53a8f4a03bf91645383372e572d1fa5a2beecfa055d2b803155015a2906/666f7acf/XN1plG2iuCRZXi8x283oHv1kkEMBFlskitgCGqB_NmtYBnTjcHTht6p6xD2gxrf07sToE3-methyDU8sDBxMyw%3D%3D?uid=0&filename=iqeTryvMSgE.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
 __after download all you need swap dist -> main.exe(1KB) on main.exe 83.7 mb__ 
 __после установки всех файлов изменить имеющийся dist -> main.exe весом 1КБ на скаченный отдельно main.exe 83.7 MB__
+
+
+__OR USE GOOGLE DISK__ : [GOOGLE DISK](https://drive.google.com/drive/folders/1M14paXu2S-4Ltw3qhxRCBQKs8GtkIEPL?usp=drive_link)
+__OR USE YANDEX DISK__ : [YANDEX DISK](https://disk.yandex.ru/d/miib8Rax4FGkTw)
 
 ### ENG
  __Application Can__
@@ -44,3 +48,19 @@ __не бойтесь это не сработает само, только ес
 #   LINKS
     VK - https://vk.com/xxzxbtl
     TG - https://t.me/qxzxbtlqq
+    Mirror - https://drive.google.com/drive/folders/1M14paXu2S-4Ltw3qhxRCBQKs8GtkIEPL?usp=drive_link
+    Mirror - https://disk.yandex.ru/d/miib8Rax4FGkTw
+
+## ABOUT DEFENDERS
+```diff
+-THIS APP CAN CONTROL PC (MOUSE AND KEYBOARD) THEREFORE, DEFENDERS SEE IT AS A VIRUS, BUT THERE IS NOT A SINGLE MALWARE OR VIRUS IN IT.
+```
+
+```diff
+-ЭТО ПРИЛОЖЕНИЕ КОНТРОЛИРУЕТ (МЫШЬ И КЛАВИАТУРУ) ПОЭТОМУ, ЗАЩИТНИКИ ВИДЯТ ЭТО КАК ВИРУС, НО В ЭТОЙ ПРОГРАММЕ НЕ СОДЕРЖИТЬСЯ НИОДНОГО ВИРУСА.
+```
+
+![VIRUS](https://downloader.disk.yandex.ru/preview/48a46760018b4a41e3ca5df2e749bedc79149262741199cc56c8779960e6bd39/666fa619/cYgvIegFDbg4CuY5AGEOEw2uBpjiuiHwZAqHkLht-9M25KyVwwnQw4bRpIKXofcXZMD7ukYijqw8OkSNuys9zQ%3D%3D?uid=0&filename=e27uHRcubQk.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+
+# THANK YOU 
+![GIF)](https://media1.tenor.com/m/Bt0TLtU1DusAAAAC/gatito-cat.gif)
