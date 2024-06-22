@@ -59,7 +59,7 @@ __не бойтесь это не сработает само, только ес
 -ЭТО ПРИЛОЖЕНИЕ КОНТРОЛИРУЕТ (МЫШЬ И КЛАВИАТУРУ) ПОЭТОМУ, ЗАЩИТНИКИ ВИДЯТ ЭТО КАК ВИРУС, НО В ЭТОЙ ПРОГРАММЕ НЕ СОДЕРЖИТЬСЯ НИОДНОГО ВИРУСА.
 ```
 
-![VIRUS](https://downloader.disk.yandex.ru/preview/48a46760018b4a41e3ca5df2e749bedc79149262741199cc56c8779960e6bd39/666fa619/cYgvIegFDbg4CuY5AGEOEw2uBpjiuiHwZAqHkLht-9M25KyVwwnQw4bRpIKXofcXZMD7ukYijqw8OkSNuys9zQ%3D%3D?uid=0&filename=e27uHRcubQk.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![VIRUS]([https://downloader.disk.yandex.ru/preview/48a46760018b4a41e3ca5df2e749bedc79149262741199cc56c8779960e6bd39/666fa619/cYgvIegFDbg4CuY5AGEOEw2uBpjiuiHwZAqHkLht-9M25KyVwwnQw4bRpIKXofcXZMD7ukYijqw8OkSNuys9zQ%3D%3D?uid=0&filename=e27uHRcubQk.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048](https://downloader.disk.yandex.ru/preview/8415efaf84af427a7f9ce38372e13d2129ffc0bd446e64c8b6cad49138c8b719/667762dc/cYgvIegFDbg4CuY5AGEOEw2uBpjiuiHwZAqHkLht-9M25KyVwwnQw4bRpIKXofcXZMD7ukYijqw8OkSNuys9zQ%3D%3D?uid=0&filename=e27uHRcubQk.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048))
 
 # THANK YOU 
 ![GIF)](https://media1.tenor.com/m/Bt0TLtU1DusAAAAC/gatito-cat.gif)
