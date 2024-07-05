@@ -2,9 +2,9 @@
 ![GIF)](https://media1.tenor.com/m/kyYaip_ibBoAAAAC/anime-silly.gif)
 ## HOW TO INSTALL
 __download in app -> dist -> main.exe click__ | __скачать корректный exe__ 
-![download exe](https://github.com/xzxbtl/ToDoApp/raw/main/app/dist/main.exe?download=)
+[download exe](https://github.com/xzxbtl/ToDoApp/raw/main/app/dist/main.exe?download=)
 __download all in zip__ | __скачать целое приложение в zip__
-![download zip](https://disk.yandex.ru/d/miib8Rax4FGkTw)
+[download zip](https://disk.yandex.ru/d/miib8Rax4FGkTw)
 __after download all you need swap dist -> main.exe(1KB) on main.exe 83.7 mb__ 
 __после установки всех файлов изменить имеющийся dist -> main.exe весом 1КБ на скаченный отдельно main.exe 83.7 MB__
 
