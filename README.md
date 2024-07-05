@@ -39,11 +39,11 @@ __не бойтесь это не сработает само, только ес
 
 
 #   SCREENSHOTS
-![MainMenu](https://downloader.disk.yandex.ru/preview/4dff11fab8ee7d76b0dd92c7e317846a0ee473fc13d9602f359d078f1a2a2ab3/666f7511/7UcFUveunguPiNV83hxinW4ZvrXq6lbfusXl8T55xEztJA5EMK_NWMKkz-afJy8PJcP_W3TyGq888yrM3L4bSA%3D%3D?uid=0&filename=9NekgTP-zVs.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![MainMenu](https://github.com/xzxbtl/ToDoApp/blob/main/9NekgTP-zVs.jpg?raw=true)
 
-![EditTask](https://downloader.disk.yandex.ru/preview/3ddc1f23d8522128925f194843518f671d78b0f655a7454f892f0ac011763259/6677589f/89R6vv9OJw7kv7eYjZvvfW4ZvrXq6lbfusXl8T55xEzNMO1MckpmicTSZfYZ70ovqOEJiHQXKHevL1FkHOh-vw%3D%3D?uid=0&filename=showtaskedits.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![EditTask](https://github.com/xzxbtl/ToDoApp/blob/main/showtaskedits.jpg?raw=true)
 
-![CreateTask](https://downloader.disk.yandex.ru/preview/23ae75c3953a28bee71c1015e44bae26b076000f985ddeba6273bd5c72ff6bc1/666f756a/kseEory4dr6eobMsATjY8m4ZvrXq6lbfusXl8T55xEw-8KTOUD5Id25a8CVaBb2XtTM0zSXp38D9BXrLB9QLTQ%3D%3D?uid=0&filename=createtask.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![CreateTask](https://github.com/xzxbtl/ToDoApp/blob/main/createtask.jpg?raw=true)
 #   LINKS
     VK - https://vk.com/xxzxbtl
     TG - https://t.me/qxzxbtlqq
@@ -59,7 +59,7 @@ __не бойтесь это не сработает само, только ес
 -ЭТО ПРИЛОЖЕНИЕ КОНТРОЛИРУЕТ (МЫШЬ И КЛАВИАТУРУ) ПОЭТОМУ, ЗАЩИТНИКИ ВИДЯТ ЭТО КАК ВИРУС, НО В ЭТОЙ ПРОГРАММЕ НЕ СОДЕРЖИТЬСЯ НИОДНОГО ВИРУСА.
 ```
 
-![VIRUS](https://downloader.disk.yandex.ru/preview/442d482e42bf10f0ece5b16a4edc5d45803fec654141df5a975858c820532c2b/66776301/cYgvIegFDbg4CuY5AGEOEw2uBpjiuiHwZAqHkLht-9M25KyVwwnQw4bRpIKXofcXZMD7ukYijqw8OkSNuys9zQ%3D%3D?uid=0&filename=e27uHRcubQk.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![VIRUS](https://github.com/xzxbtl/ToDoApp/blob/main/e27uHRcubQk.jpg?raw=true)
 
 # THANK YOU 
 ![GIF)](https://media1.tenor.com/m/Bt0TLtU1DusAAAAC/gatito-cat.gif)
