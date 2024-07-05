@@ -2,9 +2,9 @@
 ![GIF)](https://media1.tenor.com/m/kyYaip_ibBoAAAAC/anime-silly.gif)
 ## HOW TO INSTALL
 __download in app -> dist -> main.exe click__ | __скачать корректный exe__ 
-![download exe](https://downloader.disk.yandex.ru/preview/3373a05ba21889bc149f3d0167b76eae4714e80cbeaf72fac6a40c0e85c33786/666f7a17/K5Qy111g3v0KUU5KbUEP9CPWt_XI7FYqic7ojd1zDA6QDkPswdhM9BJ3GbxTJ140032Im-OF34yrG42XLWekgA%3D%3D?uid=0&filename=Bg-t5MBpOuM.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![download exe](https://github.com/xzxbtl/ToDoApp/raw/main/app/dist/main.exe?download=)
 __download all in zip__ | __скачать целое приложение в zip__
-![download zip](https://downloader.disk.yandex.ru/preview/5edae53a8f4a03bf91645383372e572d1fa5a2beecfa055d2b803155015a2906/666f7acf/XN1plG2iuCRZXi8x283oHv1kkEMBFlskitgCGqB_NmtYBnTjcHTht6p6xD2gxrf07sToE3-methyDU8sDBxMyw%3D%3D?uid=0&filename=iqeTryvMSgE.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![download zip](https://disk.yandex.ru/d/miib8Rax4FGkTw)
 __after download all you need swap dist -> main.exe(1KB) on main.exe 83.7 mb__ 
 __после установки всех файлов изменить имеющийся dist -> main.exe весом 1КБ на скаченный отдельно main.exe 83.7 MB__
 
